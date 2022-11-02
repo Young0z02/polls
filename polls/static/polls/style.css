@@ -1,0 +1,14 @@
+body {
+    background: white url("images/background.png") no-repeat;
+    background-position: right bottom;
+}
+
+li {
+    color: red;
+
+}
+
+body {
+    color : yellow;
+    font-family: 'Lobster';
+    }
